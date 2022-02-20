@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Sandip!](https://twitter.com/sandipdas01) 
+ 
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Sandip Das](https://twitter.com/sandipdas01) </h1>
 <h3 align="center">Hi, I'm Sandip Das, an Ethical Hacker , Pentester , Bug Bounty Hunter Trainer from India, currently studying at Maulana Abul Kalam Azad University of Technology</h3>
