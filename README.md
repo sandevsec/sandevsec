@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sandip Das</h1>
-<h3 align="center">Hi, I'm Sandip Das, an Ethical Hacker , Pentester , Bug Bounty Hunter Trainer from India, currently studying at Maulana Abul Kalam Azad University of Technology</h3>
+<h3 align="center">Hi, I'm Sandip Das, an Ethical Hacker , Pentester , Bug Bounty Hunter from India, currently studying at Maulana Abul Kalam Azad University of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipdas01&label=Profile%20views&color=0e75b6&style=flat" alt="sandipdas01" /> </p>
 
