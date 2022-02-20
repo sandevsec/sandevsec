@@ -14,17 +14,24 @@ Here are some ideas to get you started:
 -->
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Sandip!](https://twitter.com/sandipdas01) 
 
-<h3 align="left">A passionate Security Engineer</h3>
+<h1 align="center">Hi 👋, I'm Sandip Das</h1>
+<h3 align="center">Hi, I'm Sandip Das, an Ethical Hacker , Pentester , Bug Bounty Hunter Trainer from India, currently studying at University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipdas01&label=Profile%20views&color=0e75b6&style=flat" alt="sandipdas01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sandipdas01" target="blank"><img src="https://img.shields.io/twitter/follow/sandipdas01?logo=twitter&style=for-the-badge" alt="sandipdas01" /></a> </p>
 
-- 🌱 I’m currently learning **CEH**
+- 🔭 I’m currently working on **a few web pentesting projects**
+
+- 🌱 I’m currently learning **a bug hunting and pentesting**
+
+- 👯 I’m looking to collaborate on **Website Penetration Testing Projects, Bug Bounty Hunting or maybe on some other good projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandipdas01](https://github.com/sandipdas01)
 
-- 💬 Ask me about **Pentesting | Network Security | Practical OSINT**
+- 💬 Ask me about **Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.**
+
+- ⚡ Fun fact **⚡ Eat 🔄 Sleep 🔄 Hack 🔄 Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,4 +45,9 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sandipdas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandipdas" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipdas01&show_icons=true&locale=en&layout=compact" alt="sandipdas01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipdas01&show_icons=true&locale=en" alt="sandipdas01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipdas01&" alt="sandipdas01" /></p>
 
