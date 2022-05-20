@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.**
 
-- ⚡ Fun fact **⚡ Eat 🔄 Sleep 🔄 Hack 🔄 Repeat**
+- ⚡ Fun fact **⚡ Eat 🔄 Sleep 🔄 Hack 🔄 Repeat** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
