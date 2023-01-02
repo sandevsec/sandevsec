@@ -1,16 +1,16 @@
 
 
-<h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer, Penetration Tester from India.</h3>
-Here are some ideas to get you started: 
+<h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer, Penetration Tester from India.</h3><!
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Cyber Security, Penetration Testing and Bug Bounty Hunting.
 - 🌱 I’m currently learning DevSecOps.
-- 👯 I’m looking to collaborate on ... **Bug Bounty Hunting and open source contributions**
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on Penetration Testing Projects, Bug Bounty Hunting and open source contributions.
+- 🤔 I’m looking for help with Google and Youtube.
+- 💬 Ask me about Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.
+- 📫 How to reach me: on Social Media.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...       
+- ⚡ Fun fact: Eat 🔄 Sleep 🔄 Hack 🔄 Repeat  .  
  
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sandip Das</h1>
    
