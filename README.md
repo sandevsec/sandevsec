@@ -1,4 +1,4 @@
-<h1 align="center">### ನಮಸ್ಕಾರ 🙏 I am Sandip Das.</h1>
+
 
 <h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer, Penetration Tester from India.</h3><!
 <!-- Here are some ideas to get you started: -->
