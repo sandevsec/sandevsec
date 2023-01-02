@@ -1,6 +1,4 @@
-
-       ![background](https://user-images.githubusercontent.com/47246992/210265805-d370800a-a74f-48ce-b0d2-a6ab511be4c7.jpg)  
-
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sandip Das</h1>
 
 
 <h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer, Penetration Tester from India.</h3><!
