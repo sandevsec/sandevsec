@@ -1,11 +1,11 @@
-<!--
+
 **sandevsec/sandevsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Cyber Security, Penetration Testing and Bug Bounty Hunting.
+- 🌱 I’m currently learning DevSecOps.
+- 👯 I’m looking to collaborate on ... **Bug Bounty Hunting and open source contributions**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...       
  
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sandip Das</h1>
--->     
    
-
+   
+<!--
 <h1 align="center">Hi, I'm Sandip Das</h1>
 <h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer, Penetration Tester from India.</h3>
 
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.**
 
 - **⚡ Eat 🔄 Sleep 🔄 Hack 🔄 Repeat** 
+
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
