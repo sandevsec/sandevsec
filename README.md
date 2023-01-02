@@ -70,6 +70,11 @@
   </a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sandevsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandevsec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandip-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip-das" height="30" width="40" /></a>
+
  
  <!--
  =============================================================================================================================================================
