@@ -1,5 +1,5 @@
 
-<center> ![background](https://user-images.githubusercontent.com/47246992/210265805-d370800a-a74f-48ce-b0d2-a6ab511be4c7.jpg) </center>
+       ![background](https://user-images.githubusercontent.com/47246992/210265805-d370800a-a74f-48ce-b0d2-a6ab511be4c7.jpg)  
 
 
 
