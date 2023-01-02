@@ -10,7 +10,8 @@
 - 💬 Ask me about Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.
 - 📫 How to reach me: on Social Media.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Eat 🔄 Sleep 🔄 Hack 🔄 Repeat  .  
+- ⚡ Fun fact: The first computer virus was created in the 1980s and was called the "Brain" virus. It was designed to protect a computer's software from being copied illegally.
+- Eat 🔄 Sleep 🔄 Hack 🔄 Repeat  .  
  
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sandip Das</h1>
    
