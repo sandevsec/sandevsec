@@ -80,9 +80,9 @@
 
 <h3 align="left">Support:</h3>
 
-<p align="left">
+<p align="left"> <a>
 <a href="https://www.buymeacoffee.com/sandipdas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=&slug=sandipdas&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-</p>
+  </a> </p>
 
 
  
