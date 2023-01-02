@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sandip Das</h1>
 
 
-<h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer, Penetration Tester from India.</h3><!
+<h3 align="center">Hi, I'm Sandip Das, an Information, Cyber and Application Security Engineer from India.</h3><!
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Application Security, Cyber Security, Penetration Testing and Bug Bounty Hunting.
+- 🔭 I’m currently working on Application Security, Cyber Security, Information Security, Penetration Testing and Bug Bounty Hunting.
 - 🌱 I’m currently learning DevSecOps.
 - 👯 I’m looking to collaborate on Penetration Testing Projects, Bug Bounty Hunting and open source contributions.
 - 🤔 I’m looking for help with Google and Youtube.
