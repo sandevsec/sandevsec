@@ -80,16 +80,11 @@
 
 <h3 align="left">Support:</h3>
 
-<p></P>
+<p align="left">
 <a href="https://www.buymeacoffee.com/sandipdas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=&slug=sandipdas&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-</h3>
+</p>
 
 
-
-
-<div align="center">
-	<a href="https://www.guptashubham.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hackerspider1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-	</div>
  
  <!--
  =============================================================================================================================================================
