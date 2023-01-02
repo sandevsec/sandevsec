@@ -1,5 +1,6 @@
 
-![background](https://user-images.githubusercontent.com/47246992/210265310-6ee7ac41-5271-4145-9962-0a2d30295e71.jpg)
+![background](https://user-images.githubusercontent.com/47246992/210265805-d370800a-a74f-48ce-b0d2-a6ab511be4c7.jpg)
+
 
 
 <h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer, Penetration Tester from India.</h3><!
