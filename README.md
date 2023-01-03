@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Application Security, Cyber Security, Information Security, Penetration Testing and Bug Bounty Hunting.
 - 🌱 I’m currently learning DevSecOps.
 - 👯 I’m looking to collaborate on Penetration Testing Projects, Bug Bounty Hunting and open source contributions.
-- 🤔 I’m looking for help with Google and Youtube.
+- 🤔 I’m looking for help with Google, Youtube and twitter.
 - 💬 Ask me about Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.
 - 📫 How to reach me: on Social Media.
 - 😄 Pronouns: ...
