@@ -15,7 +15,7 @@
 - Eat 🔄 Sleep 🔄 Hack 🔄 Repeat  .  
 
 <!--Skils and Tools -->
-  
+ 
  <h2 align="Left"> 🔧 Skills & Tools: </h2>
 <p align="left">
   <a href="https://www.typescriptlang.org/">
