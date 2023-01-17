@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sandip Das</h1>
 
 
-<h3 align="center">Hi, I'm Sandip Das, an Information, Cyber and Application Security Engineer from India.</h3><!
+<h3 align="center">Hi, I'm Sandip Das, an Cyber Security Engineer from India.</h3><!
 <!-- Here are some ideas to get you started: -->
  
 - 🔭 I’m currently working on Application Security, Cyber Security, Information Security, Penetration Testing and Bug Bounty Hunting.
@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Google, Youtube and Twitter.
 - 💬 Ask me about Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.
 - 📫 How to reach me: on Social Media.
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: The first computer virus was created in the 1980s and was called the "Brain" virus. It was designed to protect a computer's software from being copied illegally.
 - Eat 🔄 Sleep 🔄 Hack 🔄 Repeat  .  
 
