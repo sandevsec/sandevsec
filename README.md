@@ -15,7 +15,7 @@
 - ⚡ Fun fact: The first computer virus was created in the 1980s and was called the "Brain" virus. It was designed to protect a computer's software from being copied illegally.
 - Eat 🔄 Sleep 🔄 Hack 🔄 Repeat  .  
  
-<!--Skils and Tools -->
+<!--Skils and Tools --> 
  
  <h2 align="Left"> 🔧 Skills & Tools: </h2>
 <p align="left">
